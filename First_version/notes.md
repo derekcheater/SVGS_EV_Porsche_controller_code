@@ -1,0 +1,1 @@
+First working verison of the main application. Was able to get it to interface with the STM32 simulator. Having trouble with the commands sending, it keeps throwing errors that I am not giving it "params" when I am clearly entering "c 40". Will try to fix tomorrow. 11/17 -Max
